@@ -1,6 +1,8 @@
-### Hi, I'm Qianqian
+### Hi, I'm Qianqian Zhang
 
-I'm a Data Science master's student at UC San Diego, working on recommendation systems and AI agents. Previously, I worked on account security at TikTok and credit-risk modeling at Baidu.
+I'm a Data Science master's student at UC San Diego. I build practical AI agents and work on search, recommendation, and risk modeling.
+
+Previously, I worked on account security agents at TikTok and credit-risk modeling at Baidu. I care about careful evaluation, reliable execution, and understanding the tradeoffs between quality, latency, and cost.
 
 #### Agents
 
