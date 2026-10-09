@@ -2,6 +2,8 @@
 
 I'm a Data Science master's student at UC San Diego. I build practical AI agents and work on search, recommendation, and risk modeling.
 
+I completed my undergraduate studies at the School of Remote Sensing and Information Engineering, Wuhan University, where I worked with [Prof. Zhenzhong Chen](https://zhenzhong-chen.github.io/) at the [Institute for AI and Machine Vision (iAM)](https://iip.whu.edu.cn/index.html).
+
 Previously, I worked on account security agents at TikTok and credit-risk modeling at Baidu. I care about careful evaluation, reliable execution, and understanding the tradeoffs between quality, latency, and cost.
 
 #### Agents
