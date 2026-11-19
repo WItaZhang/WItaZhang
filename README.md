@@ -14,8 +14,8 @@
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/row-ag-dark.svg"><img src="./assets/row-ag-light.svg" width="94%" align="middle" alt="Agents: Job-search agent"></picture></summary>
-<dl><dd><sub>Finds roles, learns your preferences, and prepares applications · 💻 <a href="https://github.com/WItaZhang/codex-job-agent">Code</a></sub></dd></dl>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/row-ag-dark.svg"><img src="./assets/row-ag-light.svg" width="94%" align="middle" alt="Agents: Job-search agent · Project Map"></picture></summary>
+<dl><dd><sub><b>Job-search agent</b> — Finds roles, learns your preferences, and prepares applications · 💻 <a href="https://github.com/WItaZhang/codex-job-agent">Code</a></sub><br><sub><b>Project Map</b> — Trace skills, tools, and MCP servers to source in your browser · 💻 <a href="https://github.com/WItaZhang/project-map">Code</a> · ▶ <a href="https://github.com/WItaZhang/project-map/blob/main/docs/demo.md">Demo</a></sub></dd></dl>
 </details>
 
 <sub>Open to new-grad roles · [LinkedIn](https://linkedin.com/in/qianqian-zhang-2994a4384) · [Email](mailto:qianqian.zhang042@gmail.com)</sub>
