@@ -3,6 +3,8 @@
   <img src="./assets/header-light.svg" width="100%" alt="Qianqian Zhang. I build models and agents that make sense of user behavior. Search & Recommendation · Risk · Agents.">
 </picture>
 
+<p align="center"><strong>🔔 Seeking a final-round team match with TikTok Recommendation | MLE New Grad (2027 Start)</strong></p>
+
 <details>
 <summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/row-sr-dark.svg"><img src="./assets/row-sr-light.svg" width="94%" align="middle" alt="Search & Recommendation: UnifiedSSR+ · ACM TIST 2026"></picture></summary>
 <dl><dd><sub>Search and recommendation in one framework · co-first author (listed first) · with Prof. Zhenzhong Chen, Wuhan University</sub><br><sub>📄 <a href="https://dl.acm.org/doi/10.1145/3828659">Paper</a> · 💻 <a href="https://github.com/WItaZhang/UnifiedSSR-plus">Code</a></sub></dd></dl>
