@@ -3,7 +3,10 @@
   <img src="./assets/header-light.svg" width="100%" alt="Qianqian Zhang. I build models and agents that make sense of user behavior. Search & Recommendation · Risk · Agents.">
 </picture>
 
-<p align="center"><strong>🔔 Seeking a final-round team match with TikTok Recommendation | MLE New Grad (2027 Start)</strong></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/team-match-dark.svg">
+  <img src="./assets/team-match-light.svg" width="100%" alt="🔔 Seeking a final-round team match with TikTok Recommendation | MLE New Grad (2027 Start)">
+</picture>
 
 <details>
 <summary><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/row-sr-dark.svg"><img src="./assets/row-sr-light.svg" width="94%" align="middle" alt="Search & Recommendation: UnifiedSSR+ · ACM TIST 2026"></picture></summary>
