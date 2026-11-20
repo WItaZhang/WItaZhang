@@ -4,8 +4,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/team-match-dark.svg">
-  <img src="./assets/team-match-light.svg" width="100%" alt="🔔 Seeking a final-round team match with TikTok Recommendation | MLE New Grad (2027 Start)">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/team-match-compact-v2-dark.svg">
+  <img src="./assets/team-match-compact-v2-light.svg" width="100%" alt="🔔 Seeking a final-round team match with TikTok Recommendation | MLE New Grad (2027 Start)">
 </picture>
 
 <details>
